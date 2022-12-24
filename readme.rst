@@ -1,6 +1,29 @@
 ###################
-What is CodeIgniter
+CRUD
 ###################
+CRUD refers to the four basic operations a software application should be able to perform – Create, Read, Update, and Delete.
+
+In such apps, users must be able to create data, have access to the data in the UI by reading the data, update or edit the data, and delete the data.
+
+#################################
+PHP-CRUD :- About the Project
+#################################
+The project simply performs the crud operation which 
+represents a task management system here. 
+The Project is all about how CRUD operation is performed 
+in PHP language using Codeigniter Framework.
+And here i have a task management service where you can 
+add your to do list and after it's completion you can simply 
+delete it from the queue.
+
+Here i have used :-
+Backend Language - PHP ,   
+Framework - Codeigniter of PHP (Version 3.1.3) ,     
+Database - Mysql    
+
+*******************
+What is CodeIgniter
+*******************
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
@@ -9,21 +32,6 @@ a rich set of libraries for commonly needed tasks, as well as a simple
 interface and logical structure to access these libraries. CodeIgniter lets
 you creatively focus on your project by minimizing the amount of code needed
 for a given task.
-
-*******************
-Release Information
-*******************
-
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
-
-**************************
-Changelog and New Features
-**************************
-
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
 
 *******************
 Server Requirements
